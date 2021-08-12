@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1> ¡Hola! Soy Carla.  👋 </h1>
 
-<!--
-**scarlamoreno/scarlamoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul> 
+  
+ <li> 🤓 Front end Developer y autodidacta en constante búsqueda de nuevos conocimientos </li>
+  <li> 🌱 Actualmente estoy cursando la Licenciatura en Ciencias de la Computación en la UNC y realizo la capacitación de Argentina Programa </li>
+   <li>❤ Pronombres: Ella/la </li>
+   <li> 🌌⚡ Soy fanática de Harry Potter y Star Wars . </li>
+  <li>🐱 Vivo con mis tres gatos: Marvel, Merlina y Murdoc. </li>
+ 
+</ul>
 
-Here are some ideas to get you started:
+<h2> Un poco más sobre mi. </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Me llamo Carla, pero todxs me conocen como Charli (: Tengo 27 años y vivo en Córdoba Capital. En 2020 me adentré en el mundo de la programación realizando cursos y prácticas por mi cuenta y me encontré con una sorpresa: resultó ser algo que me apasiona. Hice un cambio radical de carrera y dejé Turismo para cursar Ciencias de la Computación. Mi objetivo es poder manejar sin problemas ambos stacks (aunque prefiero el Front) e incorporar varios lenguajes. Cuando no estoy detrás de un editor de textos, me gusta Cantar y estoy aprendiendo a tocar el piano.  </p>
+
+<h2> Competencias y habilidades 🖥 </h2>
+<li>Javascript</li>
+<li>React</li>
+<li>HTML5</li>
+<li>CSS</li>
+<li>LESS</li>
+<li>Bootstrap</li>
+<li>GIT</li>
+<li>Inglés bilingüe</li>
+
+
+<h2>  ¡Sigamos en contacto! 📫 </h2>
+ <ul> 
+<li>scarlamoreno@gmail.com</li>
+ <li>https://www.linkedin.com/in/scarlamoreno/</li>
+  </ul>
