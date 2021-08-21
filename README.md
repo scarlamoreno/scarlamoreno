@@ -12,7 +12,7 @@
 
 <h2> Un poco más sobre mi. </h2>
 
-<p> Me llamo Carla, pero todxs me conocen como Charli (: Tengo 27 años y vivo en Córdoba Capital. En 2020 me adentré en el mundo de la programación realizando cursos y prácticas por mi cuenta y me encontré con una sorpresa: resultó ser algo que me apasiona. Hice un cambio radical de carrera y dejé Turismo para cursar Ciencias de la Computación. Mi objetivo es poder manejar sin problemas ambos stacks (aunque prefiero el Front) e incorporar varios lenguajes. Cuando no estoy detrás de un editor de textos, me gusta Cantar y estoy aprendiendo a tocar el piano.  </p>
+<p> Me llamo Carla, pero todxs me conocen como Charli (: Tengo 27 años y vivo en Córdoba Capital. En 2020 me adentré en el mundo de la programación realizando cursos y prácticas por mi cuenta y me encontré con una sorpresa: resultó ser algo que me apasiona. Hice un cambio radical de carrera y dejé Turismo para cursar Ciencias de la Computación. Mi objetivo es poder manejar sin problemas ambos stacks (aunque prefiero el Front) e incorporar varios lenguajes. Cuando no estoy detrás de un editor de textos, me gusta cantar y estoy aprendiendo a tocar el piano.  </p>
 
 <h2> Competencias y habilidades 🖥 </h2>
 <li>Javascript</li>
