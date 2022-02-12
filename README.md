@@ -16,7 +16,6 @@
 
 <h2> Competencias y habilidades 🖥 </h2>
 <li>Javascript</li>
-<li>Ruby</li>
 <li>React</li>
 <li>HTML5</li>
 <li>CSS</li>
